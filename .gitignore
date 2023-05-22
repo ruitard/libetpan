@@ -164,3 +164,6 @@ third-party
 
 .idea/
 libetpan.pc
+
+/build
+/.vscode
